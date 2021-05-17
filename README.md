@@ -8,5 +8,5 @@ A little introduction...
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with CSS
 - 📫 How to reach me: gonzalomasana95@gmail.com
-- ⚡ Fun fact: I speak native Spanish, English, Portuguese and French
+- ⚡ Fun fact: I'm a native Spanish speaker and I speak English, Portuguese and French
 
